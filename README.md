@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQE8T_Pfj_CP6w/profile-displaybackgroundimage-shrink_350_1400/0/1665478870419?e=1671062400&v=beta&t=cIw-Sx5k7RWstugX8AugcqSrGfZm8XYZpO8yu9wSuww)](https://github.com/Ehteshamulhaaq)
 
 <h1 align="center">Hi 👋, I'm Ehtesham Ul Haq</h1>
 <h3 align="center">A passionate data analyst from Pakistan</h3>
